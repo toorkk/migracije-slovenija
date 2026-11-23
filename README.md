@@ -47,7 +47,7 @@ Vsi podatki uporabljeni v projektu so dostopni v datoteki data, vsi podatki so v
 
 ## Avtorji
 
-Za pripravo projekta so poskrbeli študentu Feri UM, študijske smeri IPT UNI 2:
+Za pripravo projekta so poskrbeli študentje Feri UM, študijske smeri IPT UNI 2:
 
 Vasja Rimele,
 Anže Hameršak,
