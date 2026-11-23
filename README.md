@@ -6,10 +6,6 @@ Migracije.eu je projekt napravljen za PRAKTIKUM II, njegov namen je vizualizacij
 
 Leto izdelave: 2024
 
-## Dostopnost 
-
-Projekt je v splošnem dostopen na: https://migracije.eu/
-
 ## Instalacija
 
 Projekt je napisan v react + vite programski kodi, uporaba projekta je dostopna s klonirajem git repositorija komanda: git clone (https://github.com/toorkk/PRAKTIKUM2), potem je potrebo migrirati v datoteko MigracijePK2 in uporabiti komando npm install za korektno instalacijo. Projekt se lahko zažene s uporabo komande npm run dev.
