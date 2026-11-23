@@ -2,7 +2,7 @@
 
 ## O tem projektu
 
-Migracije.eu je projekt napravljen za PRAKTIKUM II, njegov namen je vizualizacija slovenskih delovnih migracij za lažjo predstavo in enostavno navigiranje in ogledovanje le teh podatkov. Projekt je namenjen tako navadnim uporabnikom kot tudi morebitnim strokovnjakom, katerih želja je izvedeti nekaj več o slovenskih delovnih migracijah na bolj preprost oz. bolj interaktiven način. 
+Namen projekta migracije.eu je vizualizacija slovenskih delovnih migracij za lažjo predstavo in enostavno navigiranje in ogledovanje le teh podatkov. Projekt je namenjen tako navadnim uporabnikom kot tudi morebitnim strokovnjakom, katerih želja je izvedeti nekaj več o slovenskih delovnih migracijah na bolj preprost oz. bolj interaktiven način. 
 
 Leto izdelave: 2024
 
